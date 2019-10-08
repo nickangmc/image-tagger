@@ -29,9 +29,11 @@ To write a program to implement (by socket programming in C) a game server suppo
 
 ##### How the site looks like:
 - Start Screen:
+
   ![start-screen](https://github.com/nickangmc/image-tagger/blob/master/readme-images/start-screen.png)
   
 - Ready Screen:
+
   ![ready-screen](https://github.com/nickangmc/image-tagger/blob/master/readme-images/ready-screen.png)
 
 
